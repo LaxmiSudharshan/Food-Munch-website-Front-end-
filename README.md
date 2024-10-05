@@ -12,7 +12,7 @@ Welcome to the **Food Munch Website**! This project is a responsive web applicat
 To view the Food Munch website locally, follow these steps:
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LaxmiSudharshan/food-munch-website.git
+   git clone https://github.com/LaxmiSudharshan/Food-Munch-website-Front-end-.git
 
 Technologies Used
 HTML
